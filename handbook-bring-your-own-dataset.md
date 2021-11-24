@@ -1,4 +1,10 @@
-* **In case you have chosen to select your own dataset, please consider the following instructions**
+In case you have chosen to **bring your own dataset**, please consider the following instructions
+
+---
+
+## Repository Template
+In case you do not want to build one repo from scratch, we suggest you fork this [repo](https://github.com/Code-Institute-Solutions/milestone-project-bring-your-own-data). Once you forked you may also personalize and rename the repo if you want to.
+
 ---
 
 ## Business Case Assessment
