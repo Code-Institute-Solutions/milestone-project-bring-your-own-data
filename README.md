@@ -28,7 +28,7 @@ You can safely delete the Template Instructions section of this README.md file a
 
 1. Click the kernel button and choose Python Environments.
 
-Note that the kernel says Python 3.8.18 as it inherits from the workspace, so it will be Python-3.8.18 as installed by our template. To confirm this, you can use `! python --version` in a notebook code cell.
+Note that the kernel says Python 3.12.2 as it inherits from the workspace, so it will be Python-3.12.2 as installed by our template. To confirm this, you can use `! python --version` in a notebook code cell.
 
 ## Cloud IDE Reminders
 
@@ -77,7 +77,7 @@ You can now use the `heroku` CLI program - try running `heroku apps` to confirm 
 ### Heroku
 
 * The App live link is: https://YOUR_APP_NAME.herokuapp.com/ 
-* Set the runtime.txt Python version to a [Heroku-20](https://devcenter.heroku.com/articles/python-support#supported-runtimes) stack currently supported version.
+* Set the runtime.txt Python version to a [Heroku-24](https://devcenter.heroku.com/articles/python-support#supported-runtimes) stack currently supported version.
 * The project was deployed to Heroku using the following steps.
 
 1. Log in to Heroku and create an App
@@ -100,7 +100,7 @@ You can now use the `heroku` CLI program - try running `heroku apps` to confirm 
 ### Content 
 
 - The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign-Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
+- Instructions on how to implement form validation on the Sign-Up page were taken from [Specific YouTube Tutorial](https://www.youtube.com/)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
@@ -111,5 +111,5 @@ You can now use the `heroku` CLI program - try running `heroku apps` to confirm 
 
 
 ## Acknowledgements (optional)
-* Thank the people that provided support through this project.
+* Thank the people who provided support through this project.
 
