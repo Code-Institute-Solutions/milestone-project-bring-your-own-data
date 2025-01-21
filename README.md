@@ -12,13 +12,9 @@ You can safely delete the Template Instructions section of this README.md file a
 
 1. Use this template to create your GitHub project repo
 
-1. Log into your cloud IDE with your GitHub account.
+1. In your newly created repo click on the green Code button. 
 
-1. On your Dashboard, click on the New Workspace button
-
-1. Paste in the URL you copied from GitHub earlier
-
-1. Click Create
+1. Then, from the Codespaces tab, click Create codespace on main.
 
 1. Wait for the workspace to open. This can take a few minutes.
 
@@ -28,7 +24,7 @@ You can safely delete the Template Instructions section of this README.md file a
 
 1. Click the kernel button and choose Python Environments.
 
-Note that the kernel says Python 3.12.2 as it inherits from the workspace, so it will be Python-3.12.2 as installed by our template. To confirm this, you can use `! python --version` in a notebook code cell.
+Note that the kernel says Python 3.12.1 as it inherits from the workspace, so it will be Python-3.12.1 as installed by Codespaces. To confirm this, you can use `! python --version` in a notebook code cell.
 
 ## Cloud IDE Reminders
 
